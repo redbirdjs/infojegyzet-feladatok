@@ -1,0 +1,16 @@
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.exe
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.deps.json
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.runtimeconfig.json
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.runtimeconfig.dev.json
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.dll
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\ref\Jackie.dll
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\bin\Debug\net5.0\Jackie.pdb
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.csproj.AssemblyReference.cache
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.AssemblyInfoInputs.cache
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.AssemblyInfo.cs
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.csproj.CoreCompileInputs.cache
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.dll
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\ref\Jackie.dll
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.pdb
+C:\Users\matraigergo\Downloads\infojegyzet-feladatok\Jackie\obj\Debug\net5.0\Jackie.genruntimeconfig.cache
