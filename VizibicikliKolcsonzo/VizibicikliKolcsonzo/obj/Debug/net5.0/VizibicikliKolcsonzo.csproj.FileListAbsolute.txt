@@ -1,0 +1,16 @@
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.exe
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.deps.json
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.runtimeconfig.json
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.runtimeconfig.dev.json
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.dll
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\ref\VizibicikliKolcsonzo.dll
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\net5.0\VizibicikliKolcsonzo.pdb
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.csproj.AssemblyReference.cache
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.AssemblyInfoInputs.cache
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.AssemblyInfo.cs
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.dll
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\ref\VizibicikliKolcsonzo.dll
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.pdb
+C:\Users\matraigergo\Downloads\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\net5.0\VizibicikliKolcsonzo.genruntimeconfig.cache
